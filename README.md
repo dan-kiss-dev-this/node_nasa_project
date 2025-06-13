@@ -4,6 +4,10 @@ This project converts the kepler_data.csv file into a JavaScript object using No
 Overview
 The application reads the Kepler exoplanet dataset from a CSV file and converts it into a structured JavaScript object. This makes the astronomical data easier to work with in JavaScript applications, web visualizations, or data analysis projects. Using the data 8 planets which may contain life are generated.
 
+Run the project $ node index.js
+
+![Project Screenshot](./planets-data.png)
+
 Features
 CSV parsing with Node.js
 Conversion of Kepler exoplanet data to JavaScript objects
